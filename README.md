@@ -1,4 +1,4 @@
-*Sobre mim*
+## Sobre mim
 
 - 👋 Oiie , eu sou a Duda
 - 👀 Estou interessada em aprender novas linguagens de programação 
